@@ -4,6 +4,7 @@ public class Student
 {
 	public Student()
 	{
-		console.writeline("");
+		console.writeline("I love you");
+		
 	}
 }
